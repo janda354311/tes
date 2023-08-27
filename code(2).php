@@ -1,6 +1,7 @@
 <div style="display:none;">
 
 <a href="https://upertis.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
+<a href="https://lppm.upertis.ac.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://sttekumene.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://iik.ac.id/-/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://anugrah.ac.id/slot/" rel="dofollow">Slot Gacor</a>
