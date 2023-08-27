@@ -35,6 +35,7 @@
 <a href="https://kknreguler.unsam.ac.id/-/slot-gacor/" rel="dofollow">Slot gacor</a>
 <a href="http://kknreguler.unsam.ac.id/Slot-gacor/" rel="dofollow">Slot gacor</a>
 <a href="https://dukcapil.klaten.go.id/-/" rel="dofollow">Slot gacor</a>
+<a href="https://dekelana.klaten.go.id/.well-known/Slot-gacor/" rel="dofollow">Slot gacor</a>
 <a href="https://antrian.postel.go.id/-/-/slot_gacor/" rel="dofollow">Slot gacor</a>
 <a href="https://antrian.postel.go.id/-/slotgacor/" rel="dofollow">Slot gacor</a>
 <a href="https://antrian.postel.go.id/-/Slot-gacor/" rel="dofollow">Slot gacor</a>
