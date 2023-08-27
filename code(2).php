@@ -22,6 +22,7 @@
 <a href="https://pmb.iiq.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://bogor.perpusnas.go.id/xampp/rtp-slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://parahikma.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
+<a href="https://www.sttbk.ac.id/slot-gacor/" rel="dofollow">Slot gacor</a>
 <a href="https://itesa.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://bdj.iik.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://e-journal.anugrah.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
