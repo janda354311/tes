@@ -70,7 +70,6 @@
 <a href="https://korem031.tniad.mil.id/-/Slot-gacor/" rel="dofollow">Slot gacor</a>
 <a href="https://sp.sidomuncul.co.id/webalizer/-/-/slot-gacor/ " rel="dofollow">Slot gacor</a>
 <a href="https://karirsni.nusaboard.co.id:36079/slot-gacor/" rel="dofollow">Slot gacor</a>
-<a href="https://akademigrami.or.id/slot-gacor/" rel="dofollow">Slot gacor</a>
 <a href="https://dama.poltekbangsby.ac.id/2023/app/" rel="dofollow">Slot gacor</a>
 <a href="https://dama.poltekbangsby.ac.id/assets/js/" rel="dofollow">Slot gacor</a>
 <a href="https://darulhidayah.ponpes.id/-/slot-gacor-hari-ini/" rel="dofollow">Slot gacor</a>
