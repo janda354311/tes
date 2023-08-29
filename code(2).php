@@ -69,6 +69,8 @@
 <a href="https://korem143.tni-ad.mil.id/HBC69/" rel="dofollow">Slot gacor</a>
 <a href="https://korem121.tniad.mil.id/wp-content/maintenance/" rel="dofollow">Slot gacor</a>
 <a href="https://korem031.tniad.mil.id/-/Slot-gacor/" rel="dofollow">Slot gacor</a>
+<a href="https://www.simpeg.kolakakab.go.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
+<a href="https://anugrah.ac.id/slot-gacor/" rel="dofollow">Slot gacor</a>
 <a href="https://sp.sidomuncul.co.id/webalizer/-/-/slot-gacor/ " rel="dofollow">Slot gacor</a>
 <a href="https://karirsni.nusaboard.co.id:36079/slot-gacor/" rel="dofollow">Slot gacor</a>
 <a href="https://dama.poltekbangsby.ac.id/2023/app/" rel="dofollow">Slot gacor</a>
