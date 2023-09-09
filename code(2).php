@@ -2,7 +2,7 @@
 
 <a href="https://korem152-tniad.mil.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://dosen.stih-painan.ac.id/" rel="dofollow">Slot Gacor</a>
-<a href="https://dama.poltekbangsby.ac.id/" rel="dofollow">Slot Gacor</a>
+<a href="http://dama.poltekbangsby.ac.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://sdgs-awards.bappenas.go.id/captcha/-/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://pmi.okuselatankab.go.id/wp-content/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://upertis.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
@@ -82,5 +82,6 @@
 <a href="https://kodim0601.siliwangi.mil.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://kodam14hasanuddin-tniad.mil.id/android/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://korem143.tni-ad.mil.id/.tmb/" rel="dofollow">Slot Gacor</a>
+<a href="https://sikomcatmas.wonogirikab.go.id/media/Profile_Img/slot-gacor.html" rel="dofollow">Slot Gacor</a>
 <a href="https://sp.sidomuncul.co.id/webalizer/-/-/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://darulhidayah.ponpes.id/wp-content/uploads/slot-gacor/" rel="dofollow">Slot Gacor</a>
