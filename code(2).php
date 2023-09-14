@@ -2,7 +2,6 @@
 
 <a href="https://korem152-tniad.mil.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://dosen.stih-painan.ac.id/" rel="dofollow">Slot Gacor</a>
-<a href="http://dama.poltekbangsby.ac.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://ekosistem.batik.go.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://inkadha.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://dpad.lamandaukab.go.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
