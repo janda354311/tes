@@ -2,7 +2,9 @@
 
 <a href="https://korem152-tniad.mil.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://dosen.stih-painan.ac.id/" rel="dofollow">Slot Gacor</a>
-<a href="http://komisietik.fk.ugm.ac.id/tmp/-/" rel="dofollow">Slot Gacor</a>
+<a href="http://simelati.lampungtimurkab.go.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
+<a href="https://bkd.kopertais1.or.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
+<a href="https://komisietik.fk.ugm.ac.id/tmp/-/" rel="dofollow">Slot Gacor</a>
 <a href="https://ekosistem.batik.go.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://wbs.pekanbaru.go.id/storage/-/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://inkadha.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
