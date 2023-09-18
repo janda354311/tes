@@ -1,10 +1,11 @@
 <div style="display:none;">
 
+
+<a href="http://103.47.60.38/" rel="dofollow">Slot Gacor</a>
 <a href="https://korem152-tniad.mil.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://dosen.stih-painan.ac.id/" rel="dofollow">Slot Gacor</a>
 <a href="http://simelati.lampungtimurkab.go.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://bkd.kopertais1.or.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
-<a href="https://komisietik.fk.ugm.ac.id/tmp/-/" rel="dofollow">Slot Gacor</a>
 <a href="https://ekosistem.batik.go.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://wbs.pekanbaru.go.id/storage/-/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://inkadha.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
@@ -57,7 +58,7 @@
 <a href="https://spbe.perpusnas.go.id/-/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://spbe.perpusnas.go.id/slot-hari-ini/" rel="dofollow">Slot Gacor</a>
 <a href="https://kknreguler.unsam.ac.id/-/slot-gacor/" rel="dofollow">Slot Gacor</a>
-<a href="https://kknreguler.unsam.ac.id/css/slot/" rel="dofollow">Slot Gacor</a>
+<a href="https://kknreguler.unsam.ac.id/slot777/" rel="dofollow">Slot Gacor</a>
 <a href="https://fisika.unsam.ac.id/tag/slot88/" rel="dofollow">Slot Gacor</a>
 <a href="https://fekon.unsam.ac.id/slot-gacor-hari-ini/" rel="dofollow">Slot Gacor</a>
 <a href="https://laperon.jembranakab.go.id/storage/files/330/" rel="dofollow">Slot Gacor</a>
@@ -69,7 +70,6 @@
 <a href="https://ejurnal.stih-painan.ac.id/public/site/" rel="dofollow">Slot Gacor</a>
 <a href="https://siakad.stih-painan.ac.id/siakad/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://stih-painan.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
-<a href="https://stih-painan.ac.id/slot-2023/" rel="dofollow">Slot Gacor</a>
 <a href="https://sia.stih-painan.ac.id/captcha/slot-gacor-hari-ini/" rel="dofollow">Slot Gacor</a>
 <a href="https://elearning.stikes-adc.ac.id/local/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://arsip.stikes-adc.ac.id/file/arsip/slot/" rel="dofollow">Slot Gacor</a>
