@@ -7,6 +7,7 @@
 <a href="https://dosen.stih-painan.ac.id/" rel="dofollow">Slot Gacor</a>
 <a href="http://simelati.lampungtimurkab.go.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://bkd.kopertais1.or.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
+<a href="https://ppidapi.damri.co.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://ekosistem.batik.go.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://wbs.pekanbaru.go.id/storage/-/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://inkadha.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
