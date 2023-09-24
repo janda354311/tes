@@ -88,3 +88,6 @@
 <a href="https://korem143.tni-ad.mil.id/.tmb/" rel="dofollow">Slot Gacor</a>
 <a href="https://sp.sidomuncul.co.id/sp_mon/rtp-slot/" rel="dofollow">Slot Gacor</a>
 <a href="https://darulhidayah.ponpes.id/wp-content/uploads/slot-gacor/" rel="dofollow">Slot Gacor</a>
+<a href="http://siakad-mahasiswa.stietotalwin.ac.id/uploads/files/slot-gacor/" rel="dofollow">Slot Gacor</a>
+<a href="https://sumsel.demokrat.or.id/" rel="dofollow">Slot Gacor</a>
+
