@@ -1,8 +1,8 @@
 <div style="display:none;">
-
-
+  
 <a href="http://103.47.60.38/" rel="dofollow">Slot Gacor</a>
 <a href="https://pgpaud.stkipmodernngawi.ac.id/" rel="dofollow">Slot Gacor</a>
+<a href="https://dki.demokrat.or.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://sia.stih-painan.ac.id/captcha/slot-gacor-hari-ini/" rel="dofollow">Slot Gacor</a>
 <a href="https://dosen.stih-painan.ac.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://pprk.bappenas.go.id/static/assets/" rel="dofollow">Slot Gacor</a>
@@ -91,5 +91,3 @@
 <a href="http://siakad-mahasiswa.stietotalwin.ac.id/uploads/files/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://sumsel.demokrat.or.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://siakad.sttekumene.ac.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
-
-
