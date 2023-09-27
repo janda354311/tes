@@ -78,6 +78,5 @@
 <a href="https://pusdik-bekang-tniad.mil.id/.wp-cli/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://persitpusat.or.id/wp-content/cache/" rel="dofollow">Slot Gacor</a>
 <a href="https://kodim0601.siliwangi.mil.id/slot-gacor/" rel="dofollow">Slot Gacor</a>
-<a href="https://korem143.tni-ad.mil.id/.tmb/" rel="dofollow">Slot Gacor</a>
 <a href="https://sp.sidomuncul.co.id/sp_mon/rtp-slot/" rel="dofollow">Slot Gacor</a>
 <a href="https://darulhidayah.ponpes.id/wp-content/uploads/slot-gacor/" rel="dofollow">Slot Gacor</a>
