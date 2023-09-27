@@ -73,6 +73,7 @@
 <a href="https://sdm.stikes-adc.ac.id/file/arsip/-/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://penmat.stkipmodernngawi.ac.id/login/" rel="dofollow">Slot Gacor</a>
 <a href="https://tracerstudy.stkipmodernngawi.ac.id/-/slot-gacor/" rel="dofollow">Slot Gacor</a>
+<a href="https://divif2.kostrad.mil.id/wp-content/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://kodam4.mil.id/-/slot-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://pusdikjas.kodiklat-tniad.mil.id/wp-includes/sitemaps/" rel="dofollow">Slot Gacor</a>
 <a href="https://pusdik-bekang-tniad.mil.id/.wp-cli/slot-gacor/" rel="dofollow">Slot Gacor</a>
