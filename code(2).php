@@ -6,6 +6,7 @@
 <a href="https://ptsp.halal.go.id/store/server-thailand/" rel="dofollow">Slot Gacor</a>
 <a href="https://ptsp.halal.go.id/slot-hari-ini/" rel="dofollow">Slot Gacor</a>
 <a href="https://ptsp.halal.go.id/pelatihan/" rel="dofollow">Slot Gacor</a>
+<a href="https://www.demokrat.or.id/wp-content/themes/Astra/" rel="dofollow">Slot Gacor</a>
 <a href="https://stih-painan.ac.id/store/slot-thailand/" rel="dofollow">Slot Gacor</a>
 <a href="https://dosen.stih-painan.ac.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://tka-online.kemnaker.go.id/pdf/" rel="dofollow">Slot Gacor</a>
