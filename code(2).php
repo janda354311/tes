@@ -9,6 +9,7 @@
 <a href="https://anjabpk.kemnaker.go.id/v2/demo/" rel="dofollow">Slot Gacor</a>
 <a href="https://stih-painan.ac.id/store/slot-thailand/" rel="dofollow">Slot Gacor</a>
 <a href="https://dosen.stih-painan.ac.id/" rel="dofollow">Slot Gacor</a>
+<a href="https://smkplusnu-animasi.sch.id/app/" rel="dofollow">Slot Gacor</a>
 <a href="https://tka-online.kemnaker.go.id/pdf/" rel="dofollow">Slot Gacor</a>
 <a href="https://tka-online.kemnaker.go.id/img/" rel="dofollow">Slot Gacor</a>
 <a href="http://103.47.60.38/icons/sthailand/" rel="dofollow">Slot Gacor</a>
