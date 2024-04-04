@@ -1,11 +1,11 @@
 <div style="display:none;">
 
 <a href="https://kknreguler.unsam.ac.id/tinymce/" rel="dofollow">Slot Gacor</a>
-<a href="https://pgsd.unsam.ac.id/-/st-slothailand/" rel="dofollow">Slot Gacor</a>
 <a href="https://divif2.kostrad.mil.id/-/slot-hari-ini/" rel="dofollow">Slot Gacor</a>
 <a href="https://divif2.kostrad.mil.id/store/server-thailand/" rel="dofollow">Slot Gacor</a>
 <a href="https://ptsp.halal.go.id/slot-hari-ini/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.demokrat.or.id/-/slot-hari-ini/" rel="dofollow">Slot Gacor</a>
+<a href="https://dukcapil.klaten.go.id/app/" rel="dofollow">Slot Gacor</a>
 <a href="https://anjabpk.kemnaker.go.id/v2/demo/" rel="dofollow">Slot Gacor</a>
 <a href="https://stih-painan.ac.id/store/slot-thailand/" rel="dofollow">Slot Gacor</a>
 <a href="https://dosen.stih-painan.ac.id/" rel="dofollow">Slot Gacor</a>
