@@ -7,7 +7,6 @@
 <a href="https://ptsp.halal.go.id/sthai/" rel="dofollow">Slot Gacor</a>
 <a href="https://kesad.mil.id/app/thai/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.demokrat.or.id/app/sthai/" rel="dofollow">Slot Gacor</a>
-<a href="https://dukcapil.klaten.go.id/thai/" rel="dofollow">Slot Gacor</a>
 <a href="https://stih-painan.ac.id/store/slot-thailand/" rel="dofollow">Slot Gacor</a>
 <a href="https://dosen.stih-painan.ac.id/thai/" rel="dofollow">Slot Gacor</a>
 <a href="https://sumbar.demokrat.or.id/app/hari-ini/" rel="dofollow">Slot Gacor</a>
