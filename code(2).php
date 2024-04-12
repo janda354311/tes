@@ -29,3 +29,6 @@
 <a href="https://pendaftaran.budiluhur.ac.id/beasiswanusantara/PMB/" rel="dofollow">Slot Gacor</a>
 <a href="https://anugrah.ac.id/" rel="dofollow">Slot Gacor</a>
 <a href="http://gs.unitri.ac.id/admin/assets/" rel="dofollow">Slot Gacor</a>
+<a href="https://divif2.kostrad.mil.id/-/pg-slot/" rel="dofollow">PG SLOT</a>
+<a href="https://sijaki-dev.jombangkab.go.id/pg/" rel="dofollow">PG SLOT</a>
+<a href="https://stih-painan.ac.id/store/pg-slot/" rel="dofollow">PG SLOT</a>
