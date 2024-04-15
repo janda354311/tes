@@ -38,3 +38,6 @@
 <a href="https://upertis.ac.id/slot-thailand/" rel="dofollow">Slot Gacor</a>
 <a href="https://upertis.ac.id/pg-slot/" rel="dofollow">Slot Gacor</a>
 <a href="https://unusultra.ac.id/slt-gacor/" rel="dofollow">Slot Gacor</a>
+<a href="https://dpad.lamandaukab.go.id/" rel="dofollow">Slot Gacor</a>
+<a href="https://inlislite.lamandaukab.go.id/slt-gacor/" rel="dofollow">Slot Gacor</a>
+ 
