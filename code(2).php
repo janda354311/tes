@@ -5,7 +5,7 @@
 <a href="https://divif2.kostrad.mil.id/-/sgacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://ptsp.halal.go.id/app/sgacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://ptsp.halal.go.id/slot-hari-ini/" rel="dofollow">Slot Gacor</a>
-<a href="https://anjabpk.kemnaker.go.id/app/xgacor/" rel="dofollow">Slot Gacor</a>
+<a href="https://anjabpk.kemnaker.go.id/app/sgacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://stih-painan.ac.id/store/slot-thailand/" rel="dofollow">Slot Gacor</a>
 <a href="https://dosen.stih-painan.ac.id/thai/" rel="dofollow">Slot Gacor</a>
 <a href="https://sijaki-dev.jombangkab.go.id/-/sgacor/" rel="dofollow">Slot Gacor</a>
@@ -39,5 +39,5 @@
 <a href="https://divif2.kostrad.mil.id/-/pg-slot/" rel="dofollow">SLOT DEMO</a>
 <a href="https://sijaki-dev.jombangkab.go.id/pg/" rel="dofollow">SLOT DEMO</a>
 <a href="https://stih-painan.ac.id/store/pg-slot/" rel="dofollow">SLOT DEMO</a>
-<a href="https://anjabpk.kemnaker.go.id/app/sdemo/" rel="dofollow">SLOT DEMO</a>
+<a href="https://anjabpk.kemnaker.go.id/app/pdemo/" rel="dofollow">SLOT DEMO</a>
  
