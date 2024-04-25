@@ -1,7 +1,6 @@
 <div style="display:none;">
 
-<a href="https://divif2.kostrad.mil.id/-/sgacor/" rel="dofollow">SLOT GACOR</a>
-<a href="https://divif2.kostrad.mil.id/-/sgacor/" rel="dofollow">SLOT GACOR</a>
+<a href="https://divif2.kostrad.mil.id/app/5lot-gacor/" rel="dofollow">SLOT GACOR</a>
 <a href="https://kknreguler.unsam.ac.id/gacor/" rel="dofollow">SLOT GACOR</a>
 <a href="https://ptsp.halal.go.id/app/sgacor/" rel="dofollow">SLOT GACOR</a>
 <a href="https://stih-painan.ac.id/store/slot-thailand/" rel="dofollow">SLOT GACOR</a>
