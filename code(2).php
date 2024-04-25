@@ -35,5 +35,3 @@
 <a href="https://ptsp.halal.go.id/app/pgdemo/" rel="dofollow">SLOT DEMO</a>
 <a href="https://kknreguler.unsam.ac.id/demo/" rel="dofollow">SLOT DEMO</a>
 <a href="https://dashboard.global.unair.ac.id/repo/pdemo.html" rel="dofollow">SLOT DEMO</a>
-
- 
