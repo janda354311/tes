@@ -7,6 +7,7 @@
 <a href="https://dashboard.global.unair.ac.id/repo/index.html" rel="dofollow">SLOT GACOR</a>
 <a href="https://sijaki-dev.jombangkab.go.id/-/sgacor/" rel="dofollow">SLOT GACOR</a>
 <a href="https://miku.polines.ac.id/public/-/sgacor/" rel="dofollow">SLOT GACOR</a>
+<a href="https://portal.itbi.ac.id/siakad/" rel="dofollow">Slot Gacor</a>
 <a href="https://akademika.itbi.ac.id/files/" rel="dofollow">SLOT GACOR</a>
 <a href="https://akuntansi.feb.upb.ac.id/depo/" rel="dofollow">Slot Gacor</a>
 <a href="https://sisfo.feb.upb.ac.id/js/" rel="dofollow">Slot Gacor</a>
