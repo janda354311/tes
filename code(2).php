@@ -12,6 +12,7 @@
 <a href="https://sisfo.feb.upb.ac.id/js/" rel="dofollow">Slot Gacor</a>
 <a href="https://sisfo.feb.upb.ac.id/link-slotx-gacorz/" rel="dofollow">Slot Gacor</a>
 <a href="https://manajemen.feb.upb.ac.id/demo/" rel="dofollow">Slot Demo</a>
+<a href="https://feb.upb.ac.id/link/" rel="dofollow">Slot Gacor</a>
 <a href="https://simba.polines.ac.id/pendaftar/thailand/" rel="dofollow">Slot Gacor</a>
 <a href="https://daful.polines.ac.id/thailand/" rel="dofollow">Slot Gacor</a>
 <a href="https://sister.itbi.ac.id/css/" rel="dofollow">Slot Gacor</a>
