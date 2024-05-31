@@ -5,6 +5,7 @@
 <a href="https://ptsp.halal.go.id/sl0t-gacor/" rel="dofollow">SLOT GACOR</a>
 <a href="https://stih-painan.ac.id/store/slot-thailand/" rel="dofollow">SLOT GACOR</a>
 <a href="https://mbkm.itbi.ac.id/mail/" rel="dofollow">SLOT GACOR</a>
+<a href="https://rektor.itbi.ac.id/pdf/" rel="dofollow">SLOT GACOR</a>
 <a href="https://sijaki-dev.jombangkab.go.id/-/sgacor/" rel="dofollow">SLOT GACOR</a>
 <a href="https://miku.polines.ac.id/public/-/sgacor/" rel="dofollow">SLOT GACOR</a>
 <a href="https://portal.itbi.ac.id/siakad/" rel="dofollow">Slot Gacor</a>
