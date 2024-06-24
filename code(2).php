@@ -8,7 +8,7 @@
 <a href="https://bem.fekon.uniga.ac.id/thai/" rel="dofollow">slot gacor</a>
 <a href="https://fekon.untad.ac.id/zgacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://sipp.upb.ac.id/-/zgacor/" rel="dofollow">slot gacor</a>
-<a href="https://eklipem-bbl.kemdikbud.go.id/upload/-/zgacor/" rel="dofollow">slot gacor</a>
+<a href="https://fekon.untad.ac.id/" rel="dofollow">slot</a>
 <a href="https://eklipem-bbl.kemdikbud.go.id/upload/thai/" rel="dofollow">Slot Gacor</a>
 <a href="https://tracer.fekon.uniga.ac.id/smaxwin/" rel="dofollow">Slot Gacor</a>
 <a href="https://sijaki-dev.jombangkab.go.id/-/sgacor/" rel="dofollow">SLOT GACOR</a>
