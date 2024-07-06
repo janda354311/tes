@@ -1,8 +1,8 @@
 <div style="display:none;">
 
 <a href="https://elegalisirfkipunisri.com/vendor/" rel="dofollow">SLOT GACOR</a>
-<a href="https://fkipunisri.com/vendor/" rel="dofollow">Slot Gacor</a>
-<a href="https://ptsp.halal.go.id/sl0t-gacor/" rel="dofollow">SLOT GACOR</a>
+<a href="https://fkipunisri.com/vendor/" rel="dofollow">slot gacor</a>
+<a href="https://www.ptiunisri.com/sgacor/" rel="dofollow">slot gacor</a>
 <a href="https://jdihn.jenepontokab.go.id/images/sgacor/" rel="dofollow">SLOT GACOR</a>
 <a href="https://fekon.untad.ac.id/-/sgacor/" rel="dofollow">slot gacor</a>
 <a href="https://bem.fekon.uniga.ac.id/thai/" rel="dofollow">slot gacor</a>
