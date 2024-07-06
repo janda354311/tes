@@ -1,6 +1,6 @@
 <div style="display:none;">
 
-<a href="https://divif2.kostrad.mil.id/wp-gacor/" rel="dofollow">SLOT GACOR</a>
+<a href="https://elegalisirfkipunisri.com/vendor/" rel="dofollow">SLOT GACOR</a>
 <a href="https://jdihn.jenepontokab.go.id/images/gacor/" rel="dofollow">SLOT GACOR</a>
 <a href="https://ptsp.halal.go.id/sl0t-gacor/" rel="dofollow">SLOT GACOR</a>
 <a href="https://jdihn.jenepontokab.go.id/images/sgacor/" rel="dofollow">SLOT GACOR</a>
