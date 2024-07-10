@@ -1,7 +1,7 @@
 <div style="display:none;">
 
 <a href="https://elegalisirfkipunisri.com/vendor/" rel="dofollow">SLOT GACOR</a>
-<a href="https://fkipunisri.com/vendor/" rel="dofollow">slot gacor</a>
+<a href="https://pegawai.unkris.ac.id/menu/sgacor/" rel="dofollow">slot gacor</a>
 <a href="https://www.ptiunisri.com/sgacor-toto/" rel="dofollow">slot gacor</a>
 <a href="https://hukumproperti.com/wp-content/themes/" rel="dofollow">slot gacor</a>
 <a href="https://fkipunisri.com/thai/" rel="dofollow">slot gacor</a>
