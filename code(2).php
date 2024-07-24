@@ -2,7 +2,7 @@
 
 
 <a href="https://dewantaraindonesia.com/app/" rel="dofollow">slot gacor</a>
-<a href="https://appv2.tanahlautkab.go.id/doc/xgacor/" rel="dofollow">slot gacor</a>
+<a href="https://atasicovid19.bblkmakassar.com/simpel/storage/app/" rel="dofollow">slot gacor</a>
 <a href="https://atasicovid19.bblkmakassar.com/simpel/app/" rel="dofollow">sgacor</a>
 <a href="https://www.jurnalpharmabhakta.iik.ac.id/styles/" rel="dofollow">slot gacor</a>
 <a href="https://atasicovid19.bblkmakassar.com/simpel/vendor/" rel="dofollow">slot gacor</a>
