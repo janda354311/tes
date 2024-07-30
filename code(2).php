@@ -4,7 +4,7 @@
 <a href="https://dewantaraindonesia.com/app/" rel="dofollow">slot gacor</a>
 <a href="https://atasicovid19.bblkmakassar.com/simpel/resources/" rel="dofollow">slot gacor</a>
 <a href="https://apps-rsunhas.com/simcen/app/" rel="dofollow">sgacor</a>
-<a href="https://atasicovid19.bblkmakassar.com/simpel/app/-/" rel="dofollow">slot gacor</a>
+<a href="https://indonesianresearchersforum.com/" rel="dofollow">slot 88</a>
 <a href="https://atasicovid19.bblkmakassar.com/simpel/vendor/" rel="dofollow">slot gacor</a>
 <a href="https://pmb-mandiri.sitdm.staindirundeng.ac.id/public/-/xthai/" rel="dofollow">SLOT SXGACOR</a>
 <a href="https://pmb.unkris.ac.id/assets/dompdf/vendor/" rel="dofollow">slot gacor</a>
