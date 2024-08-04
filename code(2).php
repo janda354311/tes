@@ -1,7 +1,7 @@
 <div style="display:none;">
 
 
-<a href="https://atasicovid19.bblkmakassar.com/simpel/" rel="dofollow">slot gacor</a>
+<a href="https://hdpgsdi.com/market/" rel="dofollow">Slot Gacor</a>
 <a href="https://kknreguler.unsam.ac.id/xmp/" rel="dofollow">Slot Gacor</a>
 <a href="https://divif2.kostrad.mil.id/mantra/" rel="dofollow">Slot Gacor</a>
 <a href="https://stih-painan.ac.id/amd/" rel="dofollow">Slot Gacor</a>
