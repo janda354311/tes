@@ -12,6 +12,7 @@
 <a href="https://arsip-ppds.usu.ac.id/vocer/" rel="dofollow">Slot Gacor</a>
 <a href="https://miku.polines.ac.id/public/data/" rel="dofollow">Slot Gacor</a>
 <a href="https://pipro.palukota.go.id/v1/js/" rel="dofollow">slot gacor</a>
+<a href="https://hdpgsdi.com/shop/" rel="dofollow">Slot Gacor</a>
 <a href="https://apps-rsunhas.com/simcen/app/" rel="dofollow">sgacor</a>
 <a href="https://indonesianresearchersforum.com/" rel="dofollow">slot 88</a>
 <a href="https://atasicovid19.bblkmakassar.com/simpel/vendor/" rel="dofollow">slot gacor</a>
