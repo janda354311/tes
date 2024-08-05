@@ -2,6 +2,7 @@
 
 
 <a href="https://hdpgsdi.com/market/" rel="dofollow">Slot Gacor</a>
+<a href="http://inlislite.perpustakaanjonggringsaloko.com/inlislite/db/" rel="dofollow">Slot Gacor</a>
 <a href="https://elearning.paei.or.id/vocer/" rel="dofollow">Slot Gacor</a>
 <a href="https://puprbadung.com/rtx/" rel="dofollow">Slot Gacor</a>
 <a href="https://simpel.bblkmakassar.com/nvidia/" rel="dofollow">Slot Gacor</a>
