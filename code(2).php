@@ -25,6 +25,7 @@
 <a href="https://arsip-ppds.usu.ac.id/vocer/" rel="dofollow">Slot Gacor</a>
 <a href="https://miku.polines.ac.id/public/data/" rel="dofollow">Slot Gacor</a>
 <a href="https://knm21.unram.ac.id/data/" rel="dofollow">Slot Gacor</a>
+<a href="https://inlislitentb.com/sekolah/" rel="dofollow">Slot Gacor</a>
 <a href="https://pipro.palukota.go.id/v1/js/" rel="dofollow">slot gacor</a>
 <a href="https://hdpgsdi.com/shop/" rel="dofollow">Slot Gacor</a>
 <a href="https://apps-rsunhas.com/sthai/" rel="dofollow">Slot Gacor</a>
