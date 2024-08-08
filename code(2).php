@@ -40,7 +40,7 @@
 <a href="https://sembilanlangkahbaik.com/baik/" rel="dofollow">slot gacor</a>
 <a href="https://eyrcls.com/img/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.pegawaisehat.com/shop/" rel="dofollow">Slot Gacor</a>
-<a href="https://sipinter.babelprov.go.id/siimut/-/sigacor-thailand/" rel="dofollow">slot gacor</a>
+<a href="https://man3jambi.com/market/" rel="dofollow">Slot Gacor</a>
 <a href="http://knm21.unram.ac.id/web/sthai/" rel="dofollow">Slot Gacor</a>
 <a href="https://sttlintasbudayabatam.ac.id/sxgacor/" rel="dofollow">slot gacor</a>
 
