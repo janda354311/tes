@@ -40,5 +40,5 @@
 <a href="https://www.pegawaisehat.com/shop/" rel="dofollow">Slot Gacor</a>
 <a href="https://man3jambi.com/market/" rel="dofollow">Slot Gacor</a>
 <a href="http://knm21.unram.ac.id/web/sthai/" rel="dofollow">Slot Gacor</a>
-<a href="https://sttlintasbudayabatam.ac.id/sxgacor/" rel="dofollow">slot gacor</a>
+<a href="https://inlislitentb.com/sekolah/" rel="dofollow">Slot Gacor</a>
 
