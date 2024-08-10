@@ -1,6 +1,6 @@
 <div style="display:none;">
 
-<a href="https://hdpgsdi.com/market/" rel="dofollow">Slot Gacor</a>
+<a href="https://hdpgsdi.com/guru/" rel="dofollow">Slot Gacor</a>
 <a href="https://sydemy.com/shop/" rel="dofollow">Slot Gacor</a>
 <a href="https://sarapanberisi.com/-/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.sarapanberisi.com/shop/" rel="dofollow">Slot Gacor</a>
