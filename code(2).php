@@ -30,6 +30,7 @@
 <a href="https://perpus-poltekkesbcm.com/trade/" rel="dofollow">Slot Gacor</a>
 <a href="https://man3jambi.com/sekolah/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.man3jambi.com/data/" rel="dofollow">Slot Gacor</a>
+<a href="https://pustaka.sma1wiradesa.sch.id/pustaka/" rel="dofollow">Slot Gacor</a>
 <a href="https://perpus-poltekkesbcm.com/shop/" rel="dofollow">Slot Gacor</a>
 <a href="https://pipro.palukota.go.id/v1/js/" rel="dofollow">slot gacor</a>
 <a href="https://hdpgsdi.com/market/" rel="dofollow">slot gacor</a>
