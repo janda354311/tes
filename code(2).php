@@ -9,6 +9,7 @@
 <a href="https://divif2.kostrad.mil.id/file/" rel="dofollow">Slot Gacor</a>
 <a href="https://kknreguler.unsam.ac.id/data/" rel="dofollow">Slot Gacor</a>
 <a href="https://kknreguler.unsam.ac.id/file/" rel="dofollow">Slot Gacor</a>
+<a href="https://kknreguler.unsam.ac.id/shop/" rel="dofollow">Slot Gacor</a>
 <a href="https://perpus-poltekkesbcm.com/trade/" rel="dofollow">Slot Gacor</a>
 <a href="https://man3jambi.com/sekolah/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.man3jambi.com/data/" rel="dofollow">Slot Gacor</a>
