@@ -18,6 +18,7 @@
 <a href="https://kknreguler.unsam.ac.id/shop/" rel="dofollow">Slot Gacor</a>
 <a href="https://jogjabusinesslab.com/market/" rel="dofollow">Slot Gacor</a>
 <a href="https://perpus-poltekkesbcm.com/trade/" rel="dofollow">Slot Gacor</a>
+<a href="https://atasicovid19.bblkmakassar.com/simpel/shop/" rel="dofollow">Slot Gacor</a>
 <a href="https://antrianptspbaubau.projectkoding.com/data/" rel="dofollow">Slot Gacor</a>
 <a href="https://antrianptsp-baubaukota.projectkoding.com/" rel="dofollow">Slot Gacor</a>
 <a href="https://eyrcls.com/wp-content/themes/" rel="dofollow">Slot Gacor</a>
