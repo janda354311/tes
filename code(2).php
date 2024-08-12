@@ -1,6 +1,6 @@
 <div style="display:none;">
 
-<a href="https://hdpgsdi.com/guru/" rel="dofollow">Slot Gacor</a>
+<a href="https://hdpgsdi.com/cgi/" rel="dofollow">Slot Gacor</a>
 <a href="https://dreamjobsja.com/data/" rel="dofollow">Slot Gacor</a>
 <a href="https://dreamjobsja.com/file/" rel="dofollow">Slot Gacor</a>
 <a href="https://puprbadung.com/file/" rel="dofollow">Slot Gacor</a>
