@@ -45,7 +45,7 @@
 <a href="https://pmb-mandiri.sitdm.staindirundeng.ac.id/assets/" rel="dofollow">Slot Gacor</a>
 <a href="https://pmb-mandiri.sitdm.staindirundeng.ac.id/shoppe/" rel="dofollow">Slot Gacor</a>
 <a href="https://sembilanlangkahbaik.com/baik/" rel="dofollow">slot gacor</a>
-<a href="https://eyrcls.com/img/" rel="dofollow">Slot Gacor</a>
+<a href="https://platform.eximiuslearning.com/storage/datafile/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.pegawaisehat.com/shop/" rel="dofollow">Slot Gacor</a>
 <a href="https://man3jambi.com/files/ " rel="dofollow">Slot Gacor</a>
 <a href="http://knm21.unram.ac.id/web/sthai/" rel="dofollow">Slot Gacor</a>
