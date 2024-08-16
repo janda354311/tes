@@ -31,7 +31,7 @@
 <a href="https://fkipunisri.com/data/" rel="dofollow">Slot Gacor</a>
 <a href="https://antrianptspbaubau.projectkoding.com/data/" rel="dofollow">Slot Gacor</a>
 <a href="https://antrianptsp-baubaukota.projectkoding.com/" rel="dofollow">Slot Gacor</a>
-<a href="https://eyrcls.com/wp-content/themes/" rel="dofollow">Slot Gacor</a>
+<a href="https://eyrcls.com/cgi/" rel="dofollow">Slot Gacor</a>
 <a href="https://biohadikesuma.com/blog/" rel="dofollow">Slot Gacor</a>
 <a href="https://hdpgsdi.com/guru/" rel="dofollow">Slot Gacor Maxwin</a>
 <a href="https://man3jambi.com/lazada/" rel="dofollow">Slot Gacor</a>
