@@ -30,6 +30,7 @@
 <a href="http://rudofa.com/cgi/" rel="dofollow">Slot Gacor</a>
 <a href="https://rupbasanbjm.com/data/" rel="dofollow">Slot Gacor</a>
 <a href="https://fkdmsubang.com/data/" rel="dofollow">Slot Gacor</a>
+<a href="https://bmdsyariah.com/bank/" rel="dofollow">Slot Gacor</a>
 <a href="https://kesad.mil.id/file/" rel="dofollow">Slot Gacor</a>
 <a href="https://kesad.mil.id/css/" rel="dofollow">Slot Gacor</a>
 <a href="https://layananttm-smd.id/uploads/file/" rel="dofollow">Slot Gacor</a>
