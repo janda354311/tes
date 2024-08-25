@@ -39,6 +39,7 @@
 <a href="https://redzuandika.my.id/cgi/" rel="dofollow">Slot Gacor</a>
 <a href="http://rudofa.com/cgi/" rel="dofollow">Slot Gacor</a>
 <a href="https://rupbasanbjm.com/data/" rel="dofollow">Slot Gacor</a>
+<a href="http://sister.stiebipranaputra.ac.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://disperumkimtan.surakarta.go.id/projek/" rel="dofollow">Slot Gacor</a>
 <a href="https://bmdsyariah.com/bank/" rel="dofollow">Slot Gacor</a>
 <a href="https://kesad.mil.id/file/" rel="dofollow">Slot Gacor</a>
