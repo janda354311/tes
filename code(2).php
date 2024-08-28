@@ -71,6 +71,6 @@
 <a href="https://platform.eximiuslearning.com/storage/datafile/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.pegawaisehat.com/shop/" rel="dofollow">Slot Gacor</a>
 <a href="https://perpustakaan-baubaukota.projectkoding.com/data/" rel="dofollow">Slot Gacor</a>
-<a href="http://knm21.unram.ac.id/web/sthai/" rel="dofollow">Slot Gacor</a>
+<a href="https://sttekumene.ac.id/wp/" rel="dofollow">Slot Gacor</a>
 <a href="https://inlislitentb.com/sekolah/" rel="dofollow">Slot Gacor</a>
 
