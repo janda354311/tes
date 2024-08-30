@@ -72,5 +72,5 @@
 <a href="https://www.pegawaisehat.com/shop/" rel="dofollow">Slot Gacor</a>
 <a href="https://perpustakaan-baubaukota.projectkoding.com/data/" rel="dofollow">Slot Gacor</a>
 <a href="https://sttekumene.ac.id/wp/" rel="dofollow">Slot Gacor</a>
-<a href="https://inlislitentb.com/sekolah/" rel="dofollow">Slot Gacor</a>
+<a href="https://upertis.ac.id/dosen/" rel="dofollow">Slot Gacor</a>
 
