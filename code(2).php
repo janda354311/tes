@@ -16,6 +16,7 @@
 <a href="https://pussimpur.kodiklat-tniad.mil.id/dir/" rel="dofollow">Slot Gacor</a>
 <a href="https://pesantrenbali.com/jquery/" rel="dofollow">Slot Gacor</a>
 <a href="https://elearning.stiecendekiaku.ac.id/css/" rel="dofollow">Slot Gacor</a>
+<a href="https://alumni.stiecendekiaku.ac.id/slthai/" rel="dofollow">Slot Gacor</a>
 <a href="https://britectangguhindonesia.com/projek/" rel="dofollow">Slot Gacor</a>
 <a href="https://ppid.bspjipalembang-kemenperin.com/data/" rel="dofollow">Slot Gacor</a>
 <a href="https://nusamaka.com/code/" rel="dofollow">Slot Gacor</a>
