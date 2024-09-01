@@ -1,6 +1,7 @@
 <div style="display:none;">
 
 <a href="https://www.pegawaisehat.com/karyawan/" rel="dofollow">Slot Gacor</a>
+<a href="https://sttpk-medan.ac.id/dosen/" rel="dofollow">Slot Gacor</a>
 <a href="https://orbituinbkt.com/theme/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.mahdelhi.org/main/" rel="dofollow">Slot Gacor</a>
 <a href="https://dreamjobsja.com/file/" rel="dofollow">Slot Gacor</a>
