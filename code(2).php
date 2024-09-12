@@ -1,5 +1,6 @@
 <div style="display:none;">
 
+<a href="https://tka-online.kemnaker.go.id/assets/media/bg/" rel="dofollow">Slot Gacor</a>
 <a href="https://stih-painan.ac.id/wp-content/bot/" rel="dofollow">Slot Gacor</a>
 <a href="https://stih-painan.ac.id/wp-content/uploads/2024/semua/" rel="dofollow">Slot Gacor</a>
 <a href="https://divif2.kostrad.mil.id/main/" rel="dofollow">Slot Gacor</a>
