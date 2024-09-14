@@ -8,6 +8,7 @@
 <a href="https://dreamjobsja.com/max/" rel="dofollow">Slot Gacor</a>
 <a href="https://kodim1016.tni-ad.mil.id/tujuh/" rel="dofollow">Slot Gacor</a>
 <a href="https://persitpusat.or.id/wp-content/themes/Neve/" rel="dofollow">Slot Gacor</a>
+<a href="https://kautsarmotivatour.com/paket/" rel="dofollow">Slot Gacor</a>
 <a href="https://pussimpur.kodiklat-tniad.mil.id/wp-content/-/bot/" rel="dofollow">Slot Gacor</a>
 <a href="https://pgsd.unsam.ac.id/wp-includes/html-api/" rel="dofollow">Slot Gacor</a>
 <a href="https://daarulfalah.sch.id/bot/" rel="dofollow">Slot Gacor</a>
