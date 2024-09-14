@@ -18,6 +18,7 @@
 <a href="https://orbituinbkt.com/theme/" rel="dofollow">Slot Gacor</a>
 <a href="https://ukmhub.com/" rel="dofollow">Slot Gacor</a>  
 <a href="https://perpuspujaanmantarakan.com/db/" rel="dofollow">Slot Gacor</a>
+<a href="https://back-office.lottechocopieindonesia.com/media/" rel="dofollow">Slot Gacor</a>
 <a href="https://library.stih-painan.ac.id/captcha/" rel="dofollow">Slot Gacor</a>
 <a href="https://webzid.com/dosen/" rel="dofollow">Slot Gacor</a>
 <a href="https://pusdikjas.kodiklat-tniad.mil.id/home/" rel="dofollow">Slot Gacor</a>
