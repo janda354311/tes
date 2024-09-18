@@ -13,6 +13,7 @@
 <a href="https://dreamjobsja.com/max/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.perpuspujaanmantarakan.com/captcha/" rel="dofollow">Slot Gacor</a>
 <a href="https://zona-integritas.bspjipalembang-kemenperin.com/css/" rel="dofollow">Slot Gacor</a>
+<a href="https://rsudtchillers.id/klikpasien/" rel="dofollow">Slot Gacor</a>
 <a href="https://absensi.baznasbazisdki.id/sw-content/absent/himpunan/" rel="dofollow">Slot Gacor</a>
 <a href="https://absensi.baznasbazisdki.id/sw-content/absent/products/" rel="dofollow">Slot Gacor</a>
 <a href="https://stiecendekiaku.ac.id/publikasi/" rel="dofollow">Slot Gacor</a>
