@@ -16,6 +16,7 @@
 <a href="https://zona-integritas.bspjipalembang-kemenperin.com/css/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.pkbikabali.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://riyadhussholihiin.or.id/ojek/" rel="dofollow">Slot Gacor</a>
+<a href="https://digitalmadrasah.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://sahangmas.bspjipalembang-kemenperin.com/gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://areioutdoorgear.com/arei/gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://recruitment.abhatigroup.com/karir/gacor/" rel="dofollow">Slot Gacor</a>
