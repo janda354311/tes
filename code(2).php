@@ -13,6 +13,7 @@
 <a href="https://dentagama.com/img/shop/" rel="dofollow">Slot Gacor</a>
 <a href="https://pgsd.unsam.ac.id/sgacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.demokrat.or.id/gacor/" rel="dofollow">Slot Gacor</a>
+<a href="https://rnd.epizy.com/sw-content/absent/products/" rel="dofollow">Slot Gacor</a>
 <a href="https://baznaskaltara.or.id/september-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.pkbikabali.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://absen.digitalmadrasah.id/action/" rel="dofollow">Slot Gacor</a>
