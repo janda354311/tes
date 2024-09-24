@@ -1,6 +1,7 @@
 <div style="display:none;">
 
 <a href="https://unearthedonline.com" rel="dofollow">Slot Gacor</a>
+<a href="https://inspektorat.klaten.go.id/main/" rel="dofollow">Slot Gacor</a>
 <a href="https://stih-painan.ac.id/xgacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://stih-painan.ac.id/file/" rel="dofollow">Slot Gacor</a>
 <a href="https://e-administrasi.sucofindo.co.id/qr/gacor/" rel="dofollow">Slot Gacor</a>
@@ -12,7 +13,7 @@
 <a href="https://pgsd.unsam.ac.id/sgacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.demokrat.or.id/gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://baznaskaltara.or.id/css/" rel="dofollow">Slot Gacor</a>
-<a href="https://kodim1016.tni-ad.mil.id/produk/" rel="dofollow">Slot Gacor</a>>
+<a href="https://kodim1016.tni-ad.mil.id/produk/" rel="dofollow">Slot Gacor</a>
 <a href="https://rnd.epizy.com/sw-content/absent/products/" rel="dofollow">Slot Gacor</a>
 <a href="https://baznaskaltara.or.id/september-gacor/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.pkbikabali.id/" rel="dofollow">Slot Gacor</a>
