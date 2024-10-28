@@ -1,5 +1,6 @@
 <div style="display:none;">
-
+  
+<a href="https://stih-painan.ac.id/wp-admin/main/" rel="dofollow">Slot Gacor</a> 
 <a href="https://stih-painan.ac.id/wp-admin/" rel="dofollow">Slot Gacor</a> 
 <a href="https://unearthedonline.com" rel="dofollow">Slot Gacor</a>
 <a href="https://stih-painan.ac.id/" rel="dofollow">Slot Gacor</a>
