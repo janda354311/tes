@@ -93,4 +93,4 @@
 <a href="https://perpustakaan-baubaukota.projectkoding.com/data/" rel="dofollow">Slot Gacor</a>
 <a href="https://sttekumene.ac.id/wp/" rel="dofollow">Slot Gacor</a>
 <a href="https://upertis.ac.id/dosen/" rel="dofollow">Slot Gacor</a>
-
+<a href="https://stih-painan.ac.id/wp-admin/" rel="dofollow">Slot Gacor</a>
