@@ -1,6 +1,6 @@
 <div style="display:none;">
-<a href="https://bspjimedan.kemenperin.go.id/sis/storage/fonts/" rel="dofollow">Slot Gacor</a>  
-<a href="https://bspjimedan.kemenperin.go.id/sis/storage/app/update/pp/bk/bni/upt/poligacor/" rel="dofollow">Slot Gacor</a>
+<a href="https://www.pa-maros.go.id/" rel="dofollow">Slot Gacor</a>  
+<a href="https://sttekumene.ac.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://heartlandbaptistchurch.com/" rel="dofollow">Slot Gacor</a>  
 <a href="https://stih-painan.ac.id/wp-admin/main/" rel="dofollow">Slot Gacor</a> 
 <a href="https://stih-painan.ac.id/wp-admin/" rel="dofollow">Slot Gacor</a> 
