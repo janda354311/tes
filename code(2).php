@@ -1,6 +1,6 @@
 <div style="display:none;">
 <a href="https://www.pa-maros.go.id/" rel="dofollow">Slot Gacor</a>  
-<a href="https://sttekumene.ac.id/" rel="dofollow">Slot Gacor</a>
+<a href="https://www.jubixindonesia.com/" rel="dofollow">Slot Gacor</a>
 <a href="https://heartlandbaptistchurch.com/" rel="dofollow">Slot Gacor</a>  
 <a href="https://rsudtchillers.id/" rel="dofollow">Slot Gacor</a> 
 <a href="https://stih-painan.ac.id/wp-admin/" rel="dofollow">Slot Gacor</a> 
