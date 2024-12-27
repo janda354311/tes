@@ -1,6 +1,7 @@
 <div style="display:none;">
 
 <a href="https://mobileicecube.com/" rel="dofollow">Slot Gacor</a>
+<a href="https://ngawen.klaten.go.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://kodam14hasanuddin-tniad.mil.id" rel="dofollow">Slot Gacor</a>
 <a href="https://kel-kabupaten.klaten.go.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://pembangunan.klaten.go.id" rel="dofollow">Slot Gacor</a>
