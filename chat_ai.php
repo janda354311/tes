@@ -49,6 +49,24 @@ if (isset($_GET['edit']) && is_file($_GET['edit']) && is_safe_path($_GET['edit']
     exit;
 }
 
+// Fungsi untuk menghapus file atau folder beserta isinya
+function delete_directory($dir) {
+    if (!is_dir($dir)) return false;
+
+    $files = array_diff(scandir($dir), array('.', '..'));
+
+    foreach ($files as $file) {
+        $filePath = $dir . DIRECTORY_SEPARATOR . $file;
+        if (is_dir($filePath)) {
+            delete_directory($filePath); // Hapus folder secara rekursif
+        } else {
+            unlink($filePath); // Hapus file
+        }
+    }
+
+    rmdir($dir); // Hapus folder setelah isinya terhapus
+}
+
 // Fungsi untuk menghapus file atau folder
 if (isset($_GET['delete']) && is_safe_path($_GET['delete'])) {
     $deletePath = $_GET['delete'];
@@ -57,8 +75,8 @@ if (isset($_GET['delete']) && is_safe_path($_GET['delete'])) {
         unlink($deletePath);
         echo "<script>alert('File berhasil dihapus');</script>";
     } elseif (is_dir($deletePath)) {
-        rmdir($deletePath);
-        echo "<script>alert('Folder berhasil dihapus');</script>";
+        delete_directory($deletePath); // Hapus folder beserta isinya
+        echo "<script>alert('Folder beserta isinya berhasil dihapus');</script>";
     }
 }
 
@@ -72,23 +90,6 @@ if (isset($_GET['rename']) && isset($_POST['newName']) && is_safe_path($_GET['re
         echo "<script>alert('Nama file atau folder berhasil diubah');</script>";
     } else {
         echo "<script>alert('Gagal mengganti nama file atau folder');</script>";
-    }
-}
-
-// Fungsi untuk menambah folder
-if (isset($_POST['newFolder'])) {
-    $newFolderName = $_POST['newFolder'];
-    $targetDir = isset($_POST['targetDir']) ? $_POST['targetDir'] : $uploadDir;
-    $newFolderPath = realpath($targetDir) . DIRECTORY_SEPARATOR . $newFolderName;
-
-    if (!is_dir($newFolderPath)) {
-        if (mkdir($newFolderPath, 0777)) {
-            echo "<script>alert('Folder berhasil dibuat di $newFolderPath');</script>";
-        } else {
-            echo "<script>alert('Gagal membuat folder');</script>";
-        }
-    } else {
-        echo "<script>alert('Folder sudah ada');</script>";
     }
 }
 
@@ -109,6 +110,19 @@ function show_pwd($dir) {
 $dir = isset($_GET['d']) ? $_GET['d'] : $uploadDir;
 $files = scandir($dir);
 
+// Form untuk membuat folder baru
+if (isset($_POST['createFolder'])) {
+    $newFolderName = $_POST['folderName'];
+    $newFolderPath = realpath($dir) . DIRECTORY_SEPARATOR . $newFolderName;
+
+    if (!is_dir($newFolderPath)) {
+        mkdir($newFolderPath);
+        echo "<script>alert('Folder berhasil dibuat: $newFolderPath');</script>";
+    } else {
+        echo "<script>alert('Folder sudah ada');</script>";
+    }
+}
+
 echo '<h2>Direktori Saat Ini (PWD)</h2>';
 echo '<p>' . show_pwd($dir) . '</p>';
 
@@ -119,11 +133,10 @@ echo 'Direktori Tujuan: <input type="text" name="targetDir" value="' . htmlspeci
 echo '<input type="submit" value="Upload">';
 echo '</form>';
 
-// Form untuk menambah folder
+// Form untuk membuat folder baru
 echo '<form method="POST">';
-echo 'Nama Folder Baru: <input type="text" name="newFolder"><br>';
-echo 'Direktori Tujuan: <input type="text" name="targetDir" value="' . htmlspecialchars($dir) . '" style="width: 400px;"><br>';
-echo '<input type="submit" value="Buat Folder">';
+echo 'Nama Folder Baru: <input type="text" name="folderName"><br>';
+echo '<input type="submit" name="createFolder" value="Buat Folder Baru">';
 echo '</form>';
 
 echo '<ul>';
@@ -139,7 +152,7 @@ foreach ($files as $f) {
     // Tampilkan file atau folder dengan izin dan tindakan
     if (is_dir($path)) {
         echo "<li>[DIR] <a href='?d=" . urlencode($path) . "'>$f</a> 
-                <a href='?delete=" . urlencode($path) . "' onclick='return confirm(\"Yakin ingin menghapus folder ini?\");'>[Hapus]</a>
+                <a href='?delete=" . urlencode($path) . "' onclick='return confirm(\"Yakin ingin menghapus folder ini beserta isinya?\");'>[Hapus]</a>
                 <span>Permissions: " . getFilePermissions($path) . "</span></li>";
     } else {
         echo "<li>[FILE] <a href='?edit=" . urlencode($path) . "'>$f</a> 
