@@ -1,4 +1,4 @@
-<?php
+<?pHP
 // --- pop-up
 
 $user = "LDII354@";
