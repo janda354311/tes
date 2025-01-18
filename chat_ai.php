@@ -1,4 +1,4 @@
-<?php
+<?PhP
 // Direktori awal tempat file diupload
 $uploadDir = __DIR__; 
 
