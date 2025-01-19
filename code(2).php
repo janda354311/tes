@@ -15,10 +15,10 @@
 <a href="https://kipi-dinas.perpusnas.go.id/xsl/" rel="dofollow">Slot Gacor</a>
 <a href="https://kipi-dinas.perpusnas.go.id/login/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.cabdinwil7.com/" rel="dofollow">Slot Gacor</a>
-<a href="https://www.pkbikabali.id/" rel="dofollow">Slot Gacor</a>
+<a href="https://abinsnackfood.store.borong.com/logo/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.mbkmftii-uhamka.com/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.itbm-bali.ac.id/" rel="dofollow">Slot Gacor</a>
-<a href="https://beasiswascm.merdekabattery.com/" rel="dofollow">Slot Gacor</a>
+<a href="http://ewatyy.com/" rel="dofollow">Slot Gacor</a>
 <a href="https://ikaunri.com/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.uniflor.ac.id/" rel="dofollow">Slot Gacor</a>
   
