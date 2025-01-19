@@ -24,6 +24,6 @@
 <a href="https://www.mbkmftii-uhamka.com/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.itbm-bali.ac.id/" rel="dofollow">Slot Gacor</a>
 <a href="http://ewatyy.com/" rel="dofollow">Slot Gacor</a>
-<a href="https://ikaunri.com/" rel="dofollow">Slot Gacor</a>
+<a href="https://smksip.co.id/" rel="dofollow">Slot Gacor</a>
 <a href="https://www.uniflor.ac.id/" rel="dofollow">Slot Gacor</a>
   
